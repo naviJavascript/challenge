@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "navi",
 	"description": "this is a backend course.",
+	"keywords": ["freecodecamp", "course", "backend"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
